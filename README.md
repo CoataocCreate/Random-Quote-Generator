@@ -16,7 +16,7 @@ This is a simple Python script that fetches random quotes from an API and displa
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```
-    git clone https://github.com/yourusername/random-quote-generator.git
+    git clone https://github.com/CoataocCreate/Random-Quote-Generator.git
     ```
 2. **Install Dependencies**: If you haven't already, install the Requests library using pip:
     ```
